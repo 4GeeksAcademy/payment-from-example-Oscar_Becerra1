@@ -1,0 +1,36 @@
+.payment-icons-container{
+    background-color: #6c757d;
+    border-radius: 4px;
+    padding: 8px 15px;
+    display: inline-flex;
+    align-items: center;
+    gap: 15px;
+    color: white;
+}
+
+.input-group-custom{
+    display: flex;
+    align-items: center;
+}
+
+.form-check-label{
+    color: white;
+    cursor: pointer;
+}
+
+.form-label{
+    margin-bottom: 0.5rem;
+}
+
+textarea {
+    resize: vertical;
+}
+
+.card{
+    border: 1px solid #dee2e6;
+}
+
+.card-header h2{
+    font-size: 1.5rem;
+    color: #212529;
+}
